@@ -19,8 +19,8 @@
 
 1. Clone the repository
    ```
-    git clone
-    cd
+    git clone https://github.com/khanhtoandng/nodejs-rag/tree/main
+    cd nodejs-rag
    ```
 2. Run `run.sql` file to migrate database
 3. Run LLM Studio
@@ -63,3 +63,4 @@
 ### References
 
 - [Implement RAG using Node.js, PGVector, Langchain and GPT 4](https://github.com/TheFisola/rag-poc)
+- [LangChain RAG Docs](https://js.langchain.com/v0.2/docs/tutorials/rag/)
